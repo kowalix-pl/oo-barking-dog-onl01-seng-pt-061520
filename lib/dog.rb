@@ -12,7 +12,8 @@ end
 def name
   @name 
 end 
-def bark
 
+def bark
+ "woof!"
 end
 end 
